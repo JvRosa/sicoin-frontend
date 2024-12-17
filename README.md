@@ -16,6 +16,8 @@ pnpm dev
 
 Abrir [http://localhost:3000](http://localhost:3000) no navegador.
 
+A página pode ser editada em `app/page.tsx`.
+
 Rotas API podem ser acessadas em [http://localhost:3000/api/hello](http://localhost:3000/api/hello). Esse endpoint pode ser editado em `pages/api/hello.ts`.
 
 O diretório `pages/api` é mapeado para `/api/*`. Arquivos nesse diretório são tratados como rotas API em vez de páginas React.
