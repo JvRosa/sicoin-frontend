@@ -34,7 +34,6 @@ Este repositório oferece apenas os componentes visuais da **interface de admini
 
 ## Como Executar
 
-### 1. **Frontend**
 Para rodar o frontend do sistema, siga as instruções abaixo:
 
 ```bash
