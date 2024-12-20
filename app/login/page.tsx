@@ -14,7 +14,7 @@ export default function Login() {
     // Verifique se os campos de login estão preenchidos
     if (username && password) {
       // Simulação de login - Aqui você pode adicionar a lógica de autenticação (API, verificação de usuário, etc.)
-      router.push("/"); // Redireciona para a página principal após o login
+      router.push("/dashboard"); // Redireciona para a página principal após o login
     } else {
       alert("Por favor, preencha todos os campos!");
     }
